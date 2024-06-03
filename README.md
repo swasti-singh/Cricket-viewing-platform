@@ -1,3 +1,5 @@
+<h1>Sports Coverage Platform</h1>
+
 Created a cricket news platform like Cricbuzz using Spring Boot and MySQL.
 
 The following functions can be performed by any guest (no authentication needed):
